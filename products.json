@@ -1,0 +1,16 @@
+{
+  "loja": "Giftcards TV",
+  "whatsapp": "5544999999999",
+  "produtos": [
+    { "id": "unitv", "nome": "UniTV", "cor": "#7c5cff", "desc": "Canais ao vivo, filmes e séries em um só lugar.",
+      "planos": [ {"label":"1 mês","preco":25}, {"label":"3 meses","preco":65}, {"label":"6 meses","preco":120}, {"label":"12 meses","preco":220} ] },
+    { "id": "flixx", "nome": "Flixx", "cor": "#ff4d6d", "desc": "Streaming de filmes e séries com catálogo atualizado.",
+      "planos": [ {"label":"1 mês","preco":25}, {"label":"3 meses","preco":65}, {"label":"6 meses","preco":120}, {"label":"12 meses","preco":220} ] },
+    { "id": "nexatv", "nome": "NexaTV", "cor": "#19c3ff", "desc": "TV ao vivo e on demand em alta qualidade.",
+      "planos": [ {"label":"1 mês","preco":30}, {"label":"3 meses","preco":80}, {"label":"6 meses","preco":150}, {"label":"12 meses","preco":280} ] },
+    { "id": "novatv", "nome": "NovaTV", "cor": "#ffb020", "desc": "Canais, esportes e filmes para toda a família.",
+      "planos": [ {"label":"1 mês","preco":30}, {"label":"3 meses","preco":80}, {"label":"6 meses","preco":150}, {"label":"12 meses","preco":280} ] },
+    { "id": "tvexpress", "nome": "TV+ Express", "cor": "#2dd4a0", "desc": "Ativação rápida e sem complicação.",
+      "planos": [ {"label":"1 mês","preco":28}, {"label":"3 meses","preco":75}, {"label":"6 meses","preco":140}, {"label":"12 meses","preco":260} ] }
+  ]
+}
